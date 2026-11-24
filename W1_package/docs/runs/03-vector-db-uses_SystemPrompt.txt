@@ -1,0 +1,1 @@
+Vector databases are commonly used for semantic search, recommendation systems, and image or video retrieval. They excel in handling high-dimensional data for tasks like natural language processing and machine learning applications.

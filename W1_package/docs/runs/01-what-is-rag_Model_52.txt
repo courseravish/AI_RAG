@@ -1,0 +1,10 @@
+RAG stands for **Retrieval-Augmented Generation**.
+
+It’s a pattern for building AI assistants where the model **retrieves relevant information from an external source** (e.g., a document store, database, or search index) and then **uses that retrieved context to generate** an answer.
+
+In practice:
+1. **Retrieve**: Search for the most relevant passages to the user’s question.
+2. **Augment**: Insert those passages into the model’s prompt/context.
+3. **Generate**: The model produces an answer grounded in that retrieved material.
+
+Why it’s used: it helps the model answer with **up-to-date or domain-specific knowledge**, can **reduce hallucinations**, and can provide **citations** to sources.

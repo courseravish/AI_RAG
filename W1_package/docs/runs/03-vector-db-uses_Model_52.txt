@@ -1,0 +1,3 @@
+- **Semantic search & retrieval**: Find documents, products, images, or passages by meaning (embedding similarity) rather than exact keywords.  
+- **Retrieval-Augmented Generation (RAG)**: Fetch relevant context from a knowledge base to ground LLM responses and reduce hallucinations.  
+- **Recommendations & personalization**: Suggest similar items or content (e.g., “users/items like this”) using nearest-neighbor similarity in embedding space.

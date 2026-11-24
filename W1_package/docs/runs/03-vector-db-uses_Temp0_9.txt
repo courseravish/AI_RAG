@@ -1,0 +1,5 @@
+1. **Recommendation Systems**: Vector databases can store user and item embeddings to provide personalized recommendations based on similarities between users and products.
+
+2. **Natural Language Processing**: They are used for semantic search and document retrieval, enabling effective querying of text based on meaning rather than keywords.
+
+3. **Image and Video Retrieval**: Vector databases facilitate image and video search by storing visual embeddings, allowing for similarity searches based on visual content rather than mere metadata.
