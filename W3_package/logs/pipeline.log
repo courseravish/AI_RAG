@@ -1,0 +1,57 @@
+{"ts": 1792298829.087, "level": "INFO", "msg": "asked: What is RAG in one sentence?", "logger": "pipeline"}
+{"ts": 1792298832.941, "level": "INFO", "msg": "asked: What is RAG?", "logger": "pipeline"}
+{"ts": 1792298836.373, "level": "INFO", "msg": "asked: What is RAG?", "logger": "pipeline"}
+{"ts": 1792298836.378, "level": "WARNING", "msg": "retry 1 for: What is RAG? (simulated)", "logger": "pipeline"}
+{"ts": 1792298836.379, "level": "WARNING", "msg": "retry 2 for: What is RAG? (simulated)", "logger": "pipeline"}
+{"ts": 1792298838.88, "level": "INFO", "msg": "asked: What is RAG?", "logger": "pipeline"}
+{"ts": 1792298840.158, "level": "INFO", "msg": "asked: Please summarize the company policy on r", "logger": "pipeline"}
+{"ts": 1792298840.846, "level": "INFO", "msg": "asked: How do I file a reimbursement claim?", "logger": "pipeline"}
+{"ts": 1792298841.016, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1792298841.122, "level": "INFO", "msg": "asked: What is the IT helpdesk number?", "logger": "pipeline"}
+{"ts": 1792298841.174, "level": "INFO", "msg": "asked: What is the parental leave policy?", "logger": "pipeline"}
+{"ts": 1792298841.26, "level": "INFO", "msg": "asked: Who do I contact for tech support?", "logger": "pipeline"}
+{"ts": 1792298841.452, "level": "INFO", "msg": "asked: What is the WFH policy this quarter?", "logger": "pipeline"}
+{"ts": 1792298841.549, "level": "INFO", "msg": "asked: Who approves a new vendor?", "logger": "pipeline"}
+{"ts": 1792298841.754, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1792298841.76, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1792298841.811, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1792298842.259, "level": "INFO", "msg": "asked: What is the WFH policy this quarter?", "logger": "pipeline"}
+{"ts": 1792298842.298, "level": "INFO", "msg": "asked: Who do I contact for tech support?", "logger": "pipeline"}
+{"ts": 1792298842.548, "level": "INFO", "msg": "asked: What is the IT helpdesk number?", "logger": "pipeline"}
+{"ts": 1792298842.623, "level": "INFO", "msg": "asked: How do I file a reimbursement claim?", "logger": "pipeline"}
+{"ts": 1792298842.737, "level": "INFO", "msg": "asked: What is the parental leave policy?", "logger": "pipeline"}
+{"ts": 1792298842.739, "level": "INFO", "msg": "asked: Who do I contact for tech support?", "logger": "pipeline"}
+{"ts": 1792298842.93, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1792298843.01, "level": "INFO", "msg": "asked: Who approves a new vendor?", "logger": "pipeline"}
+{"ts": 1792298843.552, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1792298843.661, "level": "INFO", "msg": "asked: Who do I contact for tech support?", "logger": "pipeline"}
+{"ts": 1792298843.69, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1792298843.7, "level": "INFO", "msg": "asked: What is the parental leave policy?", "logger": "pipeline"}
+{"ts": 1792298843.718, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1792298843.882, "level": "INFO", "msg": "asked: Who approves a new vendor?", "logger": "pipeline"}
+{"ts": 1792298843.937, "level": "INFO", "msg": "asked: How do I file a reimbursement claim?", "logger": "pipeline"}
+{"ts": 1792298844.051, "level": "INFO", "msg": "asked: What is the WFH policy this quarter?", "logger": "pipeline"}
+{"ts": 1792298844.453, "level": "INFO", "msg": "asked: What is the parental leave policy?", "logger": "pipeline"}
+{"ts": 1792298844.577, "level": "INFO", "msg": "asked: What is the IT helpdesk number?", "logger": "pipeline"}
+{"ts": 1792298844.871, "level": "INFO", "msg": "asked: What is the IT helpdesk number?", "logger": "pipeline"}
+{"ts": 1792298844.927, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1792298845.046, "level": "INFO", "msg": "asked: How do I file a reimbursement claim?", "logger": "pipeline"}
+{"ts": 1792298845.134, "level": "INFO", "msg": "asked: Who do I contact for tech support?", "logger": "pipeline"}
+{"ts": 1792298845.192, "level": "INFO", "msg": "asked: Who approves a new vendor?", "logger": "pipeline"}
+{"ts": 1792298845.287, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1792298845.378, "level": "INFO", "msg": "asked: What is the WFH policy this quarter?", "logger": "pipeline"}
+{"ts": 1792298845.463, "level": "INFO", "msg": "asked: What is the WFH policy this quarter?", "logger": "pipeline"}
+{"ts": 1792298845.694, "level": "INFO", "msg": "asked: How do I file a reimbursement claim?", "logger": "pipeline"}
+{"ts": 1792298845.815, "level": "INFO", "msg": "asked: Who approves a new vendor?", "logger": "pipeline"}
+{"ts": 1792298845.868, "level": "INFO", "msg": "asked: What is the parental leave policy?", "logger": "pipeline"}
+{"ts": 1792298846.125, "level": "INFO", "msg": "asked: Who do I contact for tech support?", "logger": "pipeline"}
+{"ts": 1792298846.188, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1792298846.188, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1792298846.233, "level": "INFO", "msg": "asked: How do I file a reimbursement claim?", "logger": "pipeline"}
+{"ts": 1792298846.773, "level": "INFO", "msg": "asked: What is the IT helpdesk number?", "logger": "pipeline"}
+{"ts": 1792298846.846, "level": "INFO", "msg": "asked: What is the parental leave policy?", "logger": "pipeline"}
+{"ts": 1792298846.879, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1792298846.929, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1792298847.365, "level": "INFO", "msg": "asked: What is the WFH policy this quarter?", "logger": "pipeline"}
+{"ts": 1792298847.493, "level": "INFO", "msg": "asked: What is the IT helpdesk number?", "logger": "pipeline"}
+{"ts": 1792298847.634, "level": "INFO", "msg": "asked: Who approves a new vendor?", "logger": "pipeline"}

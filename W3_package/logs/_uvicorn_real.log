@@ -1,0 +1,104 @@
+2026-10-18 04:47:17,725  INFO  ask_batched  question='What is RAG?'
+2026-10-18 04:47:18,879  INFO  asked: What is RAG?
+2026-10-18 04:47:19,257  INFO  ask_batched  question='Please summarize the company policy on remote work. Please summarize the company'
+2026-10-18 04:47:20,158  INFO  asked: Please summarize the company policy on r
+2026-10-18 04:47:20,410  INFO  ask  question='What is the leave policy?'
+2026-10-18 04:47:20,413  INFO  ask  question='How does the procurement approval process work?'
+2026-10-18 04:47:20,414  INFO  ask  question='Who do I contact for tech support?'
+2026-10-18 04:47:20,418  INFO  ask  question='What is the parental leave policy?'
+2026-10-18 04:47:20,422  INFO  ask  question='How do I file a reimbursement claim?'
+2026-10-18 04:47:20,422  INFO  ask  question='What is the WFH policy this quarter?'
+2026-10-18 04:47:20,426  INFO  ask  question='Who approves a new vendor?'
+2026-10-18 04:47:20,426  INFO  ask  question='What is the IT helpdesk number?'
+2026-10-18 04:47:20,429  INFO  ask  question='What is the leave policy?'
+2026-10-18 04:47:20,431  INFO  ask  question='How does the procurement approval process work?'
+2026-10-18 04:47:20,845  INFO  asked: How do I file a reimbursement claim?
+2026-10-18 04:47:21,015  INFO  asked: What is the leave policy?
+2026-10-18 04:47:21,122  INFO  asked: What is the IT helpdesk number?
+2026-10-18 04:47:21,174  INFO  asked: What is the parental leave policy?
+2026-10-18 04:47:21,260  INFO  asked: Who do I contact for tech support?
+2026-10-18 04:47:21,349  INFO  ask  question='Who do I contact for tech support?'
+2026-10-18 04:47:21,419  INFO  ask  question='What is the parental leave policy?'
+2026-10-18 04:47:21,451  INFO  asked: What is the WFH policy this quarter?
+2026-10-18 04:47:21,548  INFO  asked: Who approves a new vendor?
+2026-10-18 04:47:21,575  INFO  ask  question='How do I file a reimbursement claim?'
+2026-10-18 04:47:21,627  INFO  ask  question='What is the WFH policy this quarter?'
+2026-10-18 04:47:21,754  INFO  asked: How does the procurement approval proces
+2026-10-18 04:47:21,759  INFO  asked: How does the procurement approval proces
+2026-10-18 04:47:21,763  INFO  ask  question='Who approves a new vendor?'
+2026-10-18 04:47:21,810  INFO  asked: What is the leave policy?
+2026-10-18 04:47:21,952  INFO  ask  question='What is the IT helpdesk number?'
+2026-10-18 04:47:21,953  INFO  ask  question='What is the leave policy?'
+2026-10-18 04:47:22,213  INFO  ask  question='How does the procurement approval process work?'
+2026-10-18 04:47:22,258  INFO  asked: What is the WFH policy this quarter?
+2026-10-18 04:47:22,259  INFO  ask  question='Who do I contact for tech support?'
+2026-10-18 04:47:22,263  INFO  ask  question='What is the parental leave policy?'
+2026-10-18 04:47:22,297  INFO  asked: Who do I contact for tech support?
+2026-10-18 04:47:22,547  INFO  asked: What is the IT helpdesk number?
+2026-10-18 04:47:22,622  INFO  asked: How do I file a reimbursement claim?
+2026-10-18 04:47:22,737  INFO  asked: What is the parental leave policy?
+2026-10-18 04:47:22,739  INFO  asked: Who do I contact for tech support?
+2026-10-18 04:47:22,760  INFO  ask  question='How do I file a reimbursement claim?'
+2026-10-18 04:47:22,801  INFO  ask  question='What is the WFH policy this quarter?'
+2026-10-18 04:47:22,929  INFO  asked: What is the leave policy?
+2026-10-18 04:47:23,002  INFO  ask  question='Who approves a new vendor?'
+2026-10-18 04:47:23,009  INFO  asked: Who approves a new vendor?
+2026-10-18 04:47:23,126  INFO  ask  question='What is the IT helpdesk number?'
+2026-10-18 04:47:23,189  INFO  ask  question='What is the leave policy?'
+2026-10-18 04:47:23,242  INFO  ask  question='How does the procurement approval process work?'
+2026-10-18 04:47:23,333  INFO  ask  question='Who do I contact for tech support?'
+2026-10-18 04:47:23,412  INFO  ask  question='What is the parental leave policy?'
+2026-10-18 04:47:23,552  INFO  asked: How does the procurement approval proces
+2026-10-18 04:47:23,660  INFO  asked: Who do I contact for tech support?
+2026-10-18 04:47:23,690  INFO  asked: How does the procurement approval proces
+2026-10-18 04:47:23,699  INFO  asked: What is the parental leave policy?
+2026-10-18 04:47:23,717  INFO  asked: What is the leave policy?
+2026-10-18 04:47:23,882  INFO  asked: Who approves a new vendor?
+2026-10-18 04:47:23,936  INFO  asked: How do I file a reimbursement claim?
+2026-10-18 04:47:24,050  INFO  asked: What is the WFH policy this quarter?
+2026-10-18 04:47:24,055  INFO  ask  question='How do I file a reimbursement claim?'
+2026-10-18 04:47:24,120  INFO  ask  question='What is the WFH policy this quarter?'
+2026-10-18 04:47:24,151  INFO  ask  question='Who approves a new vendor?'
+2026-10-18 04:47:24,162  INFO  ask  question='What is the IT helpdesk number?'
+2026-10-18 04:47:24,193  INFO  ask  question='What is the leave policy?'
+2026-10-18 04:47:24,286  INFO  ask  question='How does the procurement approval process work?'
+2026-10-18 04:47:24,439  INFO  ask  question='Who do I contact for tech support?'
+2026-10-18 04:47:24,453  INFO  asked: What is the parental leave policy?
+2026-10-18 04:47:24,552  INFO  ask  question='What is the parental leave policy?'
+2026-10-18 04:47:24,576  INFO  asked: What is the IT helpdesk number?
+2026-10-18 04:47:24,870  INFO  asked: What is the IT helpdesk number?
+2026-10-18 04:47:24,906  INFO  ask  question='How do I file a reimbursement claim?'
+2026-10-18 04:47:24,927  INFO  asked: What is the leave policy?
+2026-10-18 04:47:25,030  INFO  ask  question='What is the WFH policy this quarter?'
+2026-10-18 04:47:25,046  INFO  asked: How do I file a reimbursement claim?
+2026-10-18 04:47:25,134  INFO  asked: Who do I contact for tech support?
+2026-10-18 04:47:25,192  INFO  asked: Who approves a new vendor?
+2026-10-18 04:47:25,286  INFO  asked: How does the procurement approval proces
+2026-10-18 04:47:25,323  INFO  ask  question='Who approves a new vendor?'
+2026-10-18 04:47:25,329  INFO  ask  question='What is the IT helpdesk number?'
+2026-10-18 04:47:25,378  INFO  asked: What is the WFH policy this quarter?
+2026-10-18 04:47:25,462  INFO  asked: What is the WFH policy this quarter?
+2026-10-18 04:47:25,549  INFO  ask  question='What is the leave policy?'
+2026-10-18 04:47:25,593  INFO  ask  question='How does the procurement approval process work?'
+2026-10-18 04:47:25,637  INFO  ask  question='Who do I contact for tech support?'
+2026-10-18 04:47:25,693  INFO  asked: How do I file a reimbursement claim?
+2026-10-18 04:47:25,789  INFO  ask  question='What is the parental leave policy?'
+2026-10-18 04:47:25,814  INFO  asked: Who approves a new vendor?
+2026-10-18 04:47:25,867  INFO  asked: What is the parental leave policy?
+2026-10-18 04:47:25,880  INFO  ask  question='How do I file a reimbursement claim?'
+2026-10-18 04:47:25,966  INFO  ask  question='What is the WFH policy this quarter?'
+2026-10-18 04:47:26,124  INFO  asked: Who do I contact for tech support?
+2026-10-18 04:47:26,187  INFO  asked: What is the leave policy?
+2026-10-18 04:47:26,187  INFO  asked: How does the procurement approval proces
+2026-10-18 04:47:26,196  INFO  ask  question='Who approves a new vendor?'
+2026-10-18 04:47:26,217  INFO  ask  question='What is the IT helpdesk number?'
+2026-10-18 04:47:26,232  INFO  asked: How do I file a reimbursement claim?
+2026-10-18 04:47:26,320  INFO  ask  question='What is the leave policy?'
+2026-10-18 04:47:26,590  INFO  ask  question='How does the procurement approval process work?'
+2026-10-18 04:47:26,773  INFO  asked: What is the IT helpdesk number?
+2026-10-18 04:47:26,845  INFO  asked: What is the parental leave policy?
+2026-10-18 04:47:26,878  INFO  asked: What is the leave policy?
+2026-10-18 04:47:26,929  INFO  asked: How does the procurement approval proces
+2026-10-18 04:47:27,364  INFO  asked: What is the WFH policy this quarter?
+2026-10-18 04:47:27,492  INFO  asked: What is the IT helpdesk number?
+2026-10-18 04:47:27,634  INFO  asked: Who approves a new vendor?
