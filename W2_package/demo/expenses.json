@@ -1,0 +1,387 @@
+[
+    {
+        "asctime": "2026-10-11 06:40:10,601",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Database initialized and table created."
+    },
+    {
+        "asctime": "2026-10-11 06:40:10,603",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing batch 1",
+        "chunk_size": 5,
+        "start_idx": 0
+    },
+    {
+        "asctime": "2026-10-11 06:40:10,603",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "I travelled from home to office in Uber and paid 100 Rs for the ride today."
+    },
+    {
+        "asctime": "2026-10-11 06:40:10,790",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Ordered a large pizza from Domino's last night for 450 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:10,792",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Paid my monthly apartment rent of 25000 Rs via bank transfer this morning."
+    },
+    {
+        "asctime": "2026-10-11 06:40:10,794",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Bought a new wireless mouse on Amazon for 1299 INR during the flash sale."
+    },
+    {
+        "asctime": "2026-10-11 06:40:10,795",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Filled petrol in my car at the local station costing 2000 Rs."
+    },
+    {
+        "asctime": "2026-10-11 06:40:11,931",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Travel Expense",
+        "expense_amount": 2000.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,013",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Monthly Rent",
+        "expense_amount": 25000.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,096",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Food Expense",
+        "expense_amount": 450.0,
+        "curr": "INR",
+        "tx_date": "2026-10-10"
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,179",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Online Shopping",
+        "expense_amount": 1299.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,248",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Travel Expense",
+        "expense_amount": 100.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,248",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing batch 2",
+        "chunk_size": 5,
+        "start_idx": 5
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,249",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Had a team lunch at Starbucks yesterday, bill came out to 850 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,250",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Paid the monthly electricity bill of 3200 Rs online."
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,252",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Purchased a Python programming book from Flipkart for 650 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,253",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Booked a metro ticket to the airport for 60 Rs."
+    },
+    {
+        "asctime": "2026-10-11 06:40:12,255",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Bought groceries and vegetables from the supermarket worth 1850 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,326",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Travel Expense",
+        "expense_amount": 60.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,428",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Food Expense",
+        "expense_amount": 850.0,
+        "curr": "INR",
+        "tx_date": "2026-10-10"
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,506",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Food Expense",
+        "expense_amount": 1850.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,585",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Online Shopping",
+        "expense_amount": 650.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,661",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Monthly Bill",
+        "expense_amount": 3200.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,661",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing batch 3",
+        "chunk_size": 5,
+        "start_idx": 10
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,661",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Went to the local cinema with friends, movie tickets cost 500 Rs each."
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,664",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Subscribed to Netflix monthly plan for 649 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,666",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Bought a cup of cappuccino at Caf\u00e9 Coffee Day for 220 Rs."
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,668",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Paid broadband internet bill of 999 Rs for this month."
+    },
+    {
+        "asctime": "2026-10-11 06:40:13,670",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Purchased a new cotton shirt from Myntra for 1499 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:14,693",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Online Shopping",
+        "expense_amount": 649.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:14,777",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Food Expense",
+        "expense_amount": 220.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:14,863",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Monthly Bill",
+        "expense_amount": 999.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:14,949",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Online Shopping",
+        "expense_amount": 1499.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:15,019",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Entertainment Expense",
+        "expense_amount": 1500.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:15,020",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing batch 4",
+        "chunk_size": 5,
+        "start_idx": 15
+    },
+    {
+        "asctime": "2026-10-11 06:40:15,020",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Paid cab fare using Ola to reach the railway station amounting to 350 Rs."
+    },
+    {
+        "asctime": "2026-10-11 06:40:15,022",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Ordered Chinese takeout from Zomato for dinner costing 720 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:15,023",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Bought a pack of medicines from the local pharmacy for 310 Rs."
+    },
+    {
+        "asctime": "2026-10-11 06:40:15,025",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Paid gym membership fee for the month amounting to 1500 Rs."
+    },
+    {
+        "asctime": "2026-10-11 06:40:15,026",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Processing user input via LLM",
+        "input_text": "Bought concert tickets online for 2500 INR."
+    },
+    {
+        "asctime": "2026-10-11 06:40:16,014",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Travel Expense",
+        "expense_amount": 350.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:16,119",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Online Shopping",
+        "expense_amount": 2500.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:16,201",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Medical Expense",
+        "expense_amount": 310.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:16,282",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Monthly Rent",
+        "expense_amount": 1500.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:16,349",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Successfully validated and saved expense asynchronously",
+        "category": "Food Expense",
+        "expense_amount": 720.0,
+        "curr": "INR",
+        "tx_date": "2026-10-11"
+    },
+    {
+        "asctime": "2026-10-11 06:40:16,552",
+        "levelname": "INFO",
+        "name": "expense_tracker",
+        "message": "Visualization generated successfully",
+        "chart_file": "expenses_by_type.png"
+    }
+]
